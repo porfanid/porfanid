@@ -12,3 +12,7 @@ I have worked in many different programming languages.
 I started learning `Fortran` because that was what my father could teach me. Then I moved on to `bash`,`html`, `css` and `javascript`, when I created my first web site what I was in junior highschool since I wanted the server to update on its own without me having to do it manually. After that I started programming a fiew apps on `.NET`. 
 
 Then I went to the university, where I was taught `python`, `java`, `C` (I also started learning `C++`) an I started learning some php because I wanted to do a fiew projcts that would make my life at the university a bit easier. They also taught us how to programm in `Haskell` and `Prolog`, but unlike the other programming languages, I did not go any deeper because I did not believe that any of that would really be helpfull to me.
+
+### Public PGP key
+
+[<img align="center" src="images/png2.png"  width="170"/>](https://keybase.io/porfanidis/pgp_keys.asc)
