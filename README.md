@@ -16,4 +16,4 @@ Then I went to the university, where I was taught `python`, `java`, `C` (I also 
 ### Contact me
 
 [<img align="center" src="images/Kaybase.png"  width="170"/>](https://keybase.io/porfanidis)
-[<img align="center" src="images/png2.png"  width="170"/>](https://keybase.io/porfanidis/pgp_keys.asc)
+[<img align="center" src="images/png2.png"  width="170"/>](https://porfanid.github.io/public.asc)
