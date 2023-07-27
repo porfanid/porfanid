@@ -18,7 +18,7 @@ You can find my CVs in Greek and English below:
 
 | English CV | Greek CV |
 |:---:|:---:|
-|[<img align="center" src="images/cv.png"  width="70" alt="English CV"/>](https://porfanid.github.io/CV_EN.pdf)| [<img align="center" src="images/cv.png"  width="70" alt="Greek CV"/>](https://porfanid.github.io/CV_GR.pdf)|
+|[<img align="center" src="images/cv.png"  width="100" alt="English CV"/>](https://porfanid.github.io/CV_EN.pdf)| [<img align="center" src="images/cv.png"  width="100" alt="Greek CV"/>](https://porfanid.github.io/CV_GR.pdf)|
 
 
 ### Secure Contact me
