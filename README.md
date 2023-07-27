@@ -1,4 +1,4 @@
-# Paul Orfanidis [<img align="right" width="200"  src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/porfanid)
+# Pavlos Orfanidis [<img align="right" width="200"  src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/porfanid)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=porfanid&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porfanid&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
