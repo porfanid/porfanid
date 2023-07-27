@@ -13,8 +13,16 @@ I started learning `Fortran` because that was what my father could teach me. The
 
 Then I went to the university, where I was taught `python`, `java`, `C` (I also started learning `C++`) an I started learning some php because I wanted to do a fiew projcts that would make my life at the university a bit easier. They also taught us how to programm in `Haskell` and `Prolog`, but unlike the other programming languages, I did not go any deeper because I did not believe that any of that would really be helpfull to me.
 
-### Contact me
+## CVs
+You can find my CVs in Greek and English below:
+
+| English CV | Greek CV |
+|:---:|:---:|
+|[<img align="center" src="images/cv.png"  width="70" alt="English CV"/>](https://porfanid.github.io/CV_EN.pdf)| [<img align="center" src="images/cv.png"  width="70" alt="Greek CV"/>](https://porfanid.github.io/CV_GR.pdf)|
+
+
+### Secure Contact me
 
 [<img align="center" src="images/Kaybase.png"  width="140"/>](https://keybase.io/porfanidis)
-[<img align="center" src="images/png2.png"  width="140"/>](https://github.com/porfanid.gpg)
+[<img align="center" src="images/pgp.png"  width="140"/>](https://github.com/porfanid.gpg)
 [<img align="center" src="images/ssh.png"  width="140"/>](https://github.com/porfanid.keys)
