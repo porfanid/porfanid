@@ -6,7 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porfanid&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
-I am a student at the [Computer Science Engineering](https://www.cs.uoi.gr) department at the [University of Ioannina](https://www.uoi.gr/). I am programming apps since I was a little kid and I have made a lot of projects.
+
+![career](https://readme-typing-svg.herokuapp.com/?lines=Student@CSE%20UOI;Full%20Stack%20Developer&width=500&height=50&color=ffffff)
+
 
 ## Programming languages
 I have worked in many different programming languages.
