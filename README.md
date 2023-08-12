@@ -32,6 +32,8 @@ You can find my CVs in Greek and English below:
 [<img align="center" src="images/ssh.png"  width="140"/>](https://github.com/porfanid.keys)
 [<img align="center" src="images/pgp.png"  width="140"/>](https://github.com/porfanid.gpg)
 
-> GPG Fingerprint: 7F4A64C4D77ADF08A616BEF6666855A91B3897F4
+> GPG Fingerprint 1: 7F4A64C4D77ADF08A616BEF6666855A91B3897F4
+
+> GPG Fingerprint 2: 68AC2583E74117DED0F68F94963EF8ACE6D5B122
 
 > SSH Fingerprint: 3072 MD5:49:8d:6e:6c:21:90:b4:49:f6:a6:12:e2:20:83:63:22
