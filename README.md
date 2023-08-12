@@ -27,6 +27,9 @@ You can find my CVs in Greek and English below:
 
 ### Secure Contact me
 
-[<img align="center" src="images/Kaybase.png"  width="140"/>](https://keybase.io/porfanidis)
+[<img align="center" src="images/Kaybase.png"  width="140"/>](https://keybase.io/porfanidis)[<img align="center" src="images/ssh.png"  width="140"/>](https://github.com/porfanid.keys)
+
+
 [<img align="center" src="images/pgp.png"  width="140"/>](https://github.com/porfanid.gpg)
-[<img align="center" src="images/ssh.png"  width="140"/>](https://github.com/porfanid.keys)
+
+> Fingerprint: 7F4A64C4D77ADF08A616BEF6666855A91B3897F4
