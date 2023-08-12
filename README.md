@@ -27,7 +27,7 @@ You can find my CVs in Greek and English below:
 
 ### Security
 
-> :warning::warning::warning: **Please make sure that the github commits are actually mine by downloading my gpg and ssh public keys**:warning::warning::warning:
+> :warning::warning: **Please make sure that the github commits are actually mine by downloading my gpg and ssh public keys**:warning::warning:
 
 [<img align="center" src="images/ssh.png"  width="140"/>](https://github.com/porfanid.keys)
 [<img align="center" src="images/pgp.png"  width="140"/>](https://github.com/porfanid.gpg)
