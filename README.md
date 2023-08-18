@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=porfanid&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porfanid&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
-![github stats](https://github-readme-streak-stats.herokuapp.com/?user=porfanid&theme=github_dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=porfanid&theme=github_dark&hide_border=true" align="center" alt="github stats"/>
 
 ## About me
 
