@@ -2,9 +2,13 @@
 
 # <p align="center"> [<img  src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/porfanid)</p>
 
+<a href="https://stackoverflow.com/users/20788904/pavlos-orfanidis"><img src="https://stackoverflow.com/users/flair/20788904.png?theme=dark" width="208" height="58" alt="profile for Pavlos Orfanidis at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Pavlos Orfanidis at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+===
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=porfanid&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porfanid&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=porfanid&theme=github_dark&hide_border=true" align="center" alt="github stats"/>
+
 
 ## About me
 
